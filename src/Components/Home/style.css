@@ -1,0 +1,10 @@
+.modern::after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    left: 0;
+    bottom: 6px;
+    z-index: -1;
+    background: #CC7722;
+}
